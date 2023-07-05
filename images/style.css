@@ -1,0 +1,17 @@
+body{
+    background-color: blueviolet;
+}
+.carousel-item{
+    border: 3x solid black;
+    margin: auto;
+    display: block;
+    background-color: aqua;
+}
+.carousel-inner{
+    margin: auto;
+    display: block;
+   
+}
+.carousel{
+    background-color: brown;
+}
